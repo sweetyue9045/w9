@@ -1,7 +1,7 @@
 {
   "name": "H1_JSONServer",
   "version": "1.0.0",
-  "description": "",
+  "description": "110619032-w9",
   "main": "index.js",
   "scripts": {
     "json": "json-server --watch -p 4000 db.json",
