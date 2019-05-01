@@ -1,5 +1,5 @@
 import $ from "jquery";
-import 'bootstrap-css-only';
+import "../css/style.css";
 import gNews from './modules/gNews';
 import { newsTemplate } from './modules/templates';
 
